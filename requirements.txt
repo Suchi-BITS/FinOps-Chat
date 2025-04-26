@@ -1,6 +1,7 @@
 streamlit
 langchain
 langchain-groq
+chromadb
 faiss-cpu
 sentence-transformers
 PyPDF2
